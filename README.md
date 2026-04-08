@@ -90,5 +90,5 @@ GOOGLE_SECRET=your_secret
 
 ## 👨‍💻 Author
 
-Abhishek
+Abhishek Kumar
 Full Stack Developer
