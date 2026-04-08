@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+corsheaders
+social-auth-app-django
+razorpay
+psycopg2-binary
